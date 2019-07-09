@@ -2,6 +2,12 @@
 
 > A Vue.js project
 
+### 前端分离
+### 基于element-ui
+### ajax(axios与ajax的转换)
+### router默认 /
+
+
 ## Build Setup
 
 ``` bash
